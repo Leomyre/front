@@ -1,0 +1,20 @@
+# Ignorer le dossier logs
+logs/
+
+# Ignorer tous les dossiers node_modules
+node_modules/
+
+# Ignorer les fichiers temporaires ou système
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Ignorer les fichiers de configuration d'éditeur
+.vscode/
+.idea/
+
+# Ignorer les fichiers de compilation
+dist/
+build/
+node_modules
