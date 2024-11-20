@@ -1,7 +1,7 @@
 // frontend/pages/index.tsx
 
 import React from 'react';
-import ConversationsList from '@/components/ConversationsList';
+import ConversationsList from '../components/ConversationsList';
 
 const HomePage: React.FC = () => {
   return (
